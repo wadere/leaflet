@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="rew@localhost" uuid="6cc46dfc-dfb1-4fbe-a49a-2e1ef38efb78">
+      <database-info product="PostgreSQL" version="9.6.3" jdbc-version="4.2" driver-name="PostgreSQL JDBC Driver" driver-version="42.1.1">
+        <identifier-quote-string>&quot;</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="lower" quoted-identifiers="exact" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>rew</user-name>
+      <introspection-schemas>rew:public</introspection-schemas>
+    </data-source>
+    <data-source name="Modeling@localhost" uuid="e7e6957f-ea33-4175-b11b-6c3cd02691a5">
+      <database-info product="PostgreSQL" version="9.6.3" jdbc-version="4.2" driver-name="PostgreSQL JDBC Driver" driver-version="42.1.1">
+        <identifier-quote-string>&quot;</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="lower" quoted-identifiers="exact" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>rew</user-name>
+      <introspection-schemas>Modeling:public</introspection-schemas>
+    </data-source>
+  </component>
+</project>

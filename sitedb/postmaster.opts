@@ -1,0 +1,1 @@
+/Applications/Postgres.app/Contents/Versions/9.6/bin/postgres "-D" "/Users/rew/git/leaflet/sitedb" "-p" "5433"
